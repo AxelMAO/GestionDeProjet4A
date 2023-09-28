@@ -1,5 +1,6 @@
 test
 test 2
 il va y avoir un conflit
-
 Ajout d'une nouvelle ligne pour test du merge
+je suis sur la 2eme branche
+
